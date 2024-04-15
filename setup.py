@@ -1,3 +1,7 @@
+
+sudo apt-get install python3.6-dev libmysqlclient-dev
+
+
 from setuptools import setup, find_packages
 
 setup(
